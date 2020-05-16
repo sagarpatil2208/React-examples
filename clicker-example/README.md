@@ -37,11 +37,11 @@ _**Concepts to use** : State, Props, Reusable component_
 
 **Default State :**
 
-![Default Image](https://raw.githubusercontent.com/paragsh/React-examples/master/react-counter-example/public/defaultState.png)
+![Default Image](https://raw.githubusercontent.com/paragsh/React-examples/master/clicker-example/public/defaultState.png)
 
 **Incremented State :**
 
-![Incremented Image](https://raw.githubusercontent.com/paragsh/React-examples/master/react-counter-example/public/IncrementState.png)
+![Incremented Image](https://raw.githubusercontent.com/paragsh/React-examples/master/clicker-example/public/IncrementState.png)
 
 
 
