@@ -9,5 +9,4 @@ function DisplayComponent(props) {
     </div>
   );
 }
-
 export default DisplayComponent;
